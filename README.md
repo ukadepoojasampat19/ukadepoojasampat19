@@ -45,4 +45,4 @@
 </div>
 
 <img src="https://github.com/ukadepoojasampat19/ukadepoojasampat19/blob/main/snake.yml" alt="Snake animation" />
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+<img src="https://leetcode.card.workers.dev/poojaukade8?theme=wtf&font=baloo&extension=null">
