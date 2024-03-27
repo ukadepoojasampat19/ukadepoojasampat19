@@ -41,5 +41,7 @@
 </div>
 
 <br>
-<img src="https://leetcode.card.workers.dev/poojaukade8?theme=wtf&font=baloo&extension=null">
-<img src="https://badges.peiyuan.ch/leetcode/poojaukade8/name"/>
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/poojaukade8?theme=wtf&font=baloo&extension=null" style="margin-right: 20px;">
+  <img src="leetcodebadge.png" height="200" />
+</div>
