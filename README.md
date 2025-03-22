@@ -47,4 +47,7 @@
   <img src="dcc-2024-4.png" height="200"/>
   <img src="may-leetcodebadge.png" height="200" /> 
   <img src="https://github.com/ukadepoojasampat19/ukadepoojasampat19/blob/main/100%20days%20badge.png" height="200"/>
+  <img src="" height="200"/>
+  <img src="" height="200"/>
+  <img src="" height="200"/>
 </div>
