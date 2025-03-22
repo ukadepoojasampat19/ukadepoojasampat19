@@ -42,10 +42,10 @@
 
 <br>
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/poojaukade8?theme=wtf&font=baloo&extension=null" style="margin-right: 20px;">
+<!--   <img src="https://leetcode.card.workers.dev/poojaukade8?theme=wtf&font=baloo&extension=null" style="margin-right: 20px;">
+  <img src="aprbadge.png" height="200"/> -->
   <img src="leetcodebadge.png" height="200" />
-  <img src="dcc-2024-4.png" height="200"/>
-  <img src="may-leetcodebadge.png" height="200" /> 
+  <img src="maybadge.png" height="200" /> 
   <img src="https://github.com/ukadepoojasampat19/ukadepoojasampat19/blob/main/100%20days%20badge.png" height="200"/>
   <img src="augbadge.png" height="200"/>
   <img src="sepbadge.png" height="200"/>
