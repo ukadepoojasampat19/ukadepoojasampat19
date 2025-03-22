@@ -48,6 +48,6 @@
   <img src="may-leetcodebadge.png" height="200" /> 
   <img src="https://github.com/ukadepoojasampat19/ukadepoojasampat19/blob/main/100%20days%20badge.png" height="200"/>
   <img src="augbadge.png" height="200"/>
-  <img src="" height="200"/>
+  <img src="sepbadge.png" height="200"/>
   <img src="" height="200"/>
 </div>
